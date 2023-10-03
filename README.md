@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Mert
+
+- 🧑‍💻 I’m currently working as iOS Architect [@loodos](https://github.com/loodos)
+- 💬 Ask me about anything related to iOS
+- 📫 How to reach me: [➡️](https://www.linkedin.com/in/mert-karabulut)
 
 <!--
 **mertkarablt/mertkarablt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
